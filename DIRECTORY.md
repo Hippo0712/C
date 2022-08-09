@@ -16,7 +16,7 @@
   * [Udp Server](https://github.com/TheAlgorithms/C/blob/master/client_server/udp_server.c)
 
 ## Conversions
-  * [Binary To Decimal](https://github.com/TheAlgorithms/C/blob/master/conversions/binary_to_decimal.c)
+  * [Binary To Decimal] (https://github.com/TheAlgorithms/C/blob/master/conversions/binary_to_decimal.c)
   * [Binary To Hexadecimal](https://github.com/TheAlgorithms/C/blob/master/conversions/binary_to_hexadecimal.c)
   * [Binary To Octal](https://github.com/TheAlgorithms/C/blob/master/conversions/binary_to_octal.c)
   * [C Atoi Str To Integer](https://github.com/TheAlgorithms/C/blob/master/conversions/c_atoi_str_to_integer.c)
